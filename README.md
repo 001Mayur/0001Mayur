@@ -16,7 +16,7 @@ I'm passionate about artificial intelligence and always eager to learn new thing
   - ![Probability & Statistics](https://img.shields.io/badge/Probability_&_Statistics-FF0000?&logoColor=white)
   - ![Data Analytics & Model Development and Deployment](https://img.shields.io/badge/Data_Analytics_&_Model_Development_and_Deployment-B366F6?&logoColor=white)
 
-- Programming, Frameworks & Libraries
+- **Programming, Frameworks & Libraries**
   - ![Python](https://img.shields.io/badge/Python-blue?&logo=Python&logoColor=white)
   - ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?&logo=TensorFlow&logoColor=white)
   - ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?&logo=PyTorch&logoColor=white)
@@ -29,7 +29,7 @@ I'm passionate about artificial intelligence and always eager to learn new thing
   - ![Matplotlib](https://img.shields.io/badge/Matplotlib-004088?)
   - ![Seaborn](https://img.shields.io/badge/Seaborn-31A8FF?)
 
-- Embedded Systems
+- **Embedded Systems**
   - ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?&logo=raspberrypi&logoColor=white)
 
 - **Databases**:
