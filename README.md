@@ -1,6 +1,6 @@
 ### Hi there, I'm Mayur 👋
 
-<img src="assets/Mayur phatangare.gif"></a>
+<img src="assets/mayur phatanagre.gif" alt="Mayur phatangare AI Developer "></a>
 
 ## 🚀 About Me
 
@@ -8,16 +8,29 @@ I'm passionate about artificial intelligence and always eager to learn new thing
 
 ## 🛠️ Skills
 
-- **Languages**:-
+- **AI & Data Science**
+  - ![Deep Learning](https://img.shields.io/badge/Deep_Learning-003DFF?&logoColor=white)
+  - ![Computer Vision](https://img.shields.io/badge/Computer_Vision-00A8E1?&logoColor=white)
+  - ![Image Processing](https://img.shields.io/badge/Image_Processing-5B0BB5?&Color=white) 
+  - ![Machine learning](https://img.shields.io/badge/Machine_learning-2962FF?&logoColor=white)
+  - ![Probability & Statistics](https://img.shields.io/badge/Probability_&_Statistics-FF0000?&logoColor=white)
+  - ![Data Analytics & Model Development and Deployment](https://img.shields.io/badge/Data_Analytics_&_Model_Development_and_Deployment-B366F6?&logoColor=white)
 
+- Programming, Frameworks & Libraries
   - ![Python](https://img.shields.io/badge/Python-blue?&logo=Python&logoColor=white)
-- **Frameworks/Libraries**: 
-
   - ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?&logo=TensorFlow&logoColor=white)
-
   - ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?&logo=PyTorch&logoColor=white)
-
   - ![Keras](https://img.shields.io/badge/Keras-E6241A?&logo=Keras&logoColor=white)
+  - ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?&logo=Scikit-Learn&logoColor=white)
+  - ![OpenCV](https://img.shields.io/badge/OpenCV-2322F0?&logo=OpenCV&logoColor=white)
+  - ![Scipy](https://img.shields.io/badge/Scipy-8CAAE6?&logo=Scipy&logoColor=white)
+  - ![Numpy](https://img.shields.io/badge/Numpy-013243?&logo=Numpy&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/Pandas-150458?&logo=Pandas&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-004088?)
+  - ![Seaborn](https://img.shields.io/badge/Seaborn-31A8FF?)
+
+- Embedded Systems
+  - ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?&logo=raspberrypi&logoColor=white)
 
 - **Databases**:
 
@@ -37,10 +50,10 @@ I'm passionate about artificial intelligence and always eager to learn new thing
 
 You can reach me at 👇
 
-[![Gmail](https://img.shields.io/badge/Gmail-DA1F2?style=for-the-badge&logo=Gmail&logoColor=white)](mnphatangare8gmail.com)  
-[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://001mayur.github.io/)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mnphatangare8gmail.com)  
+[![portfolio](https://img.shields.io/badge/my_portfolio-5C1F87?style=for-the-badge&logo=ko-fi&logoColor=white)](https://001mayur.github.io/)  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-phatangare-ba874821b/)  
-[![twitter](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/001Mayur)  
+[![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/001Mayur)  
 
 
 
