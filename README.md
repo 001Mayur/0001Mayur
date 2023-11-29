@@ -1,6 +1,6 @@
 ### Hi there, I'm Mayur 👋
 
-<!-- ![Mayur Phatanagre- AI Developer](assets/mayurphatanagre.gif) -->
+![Mayur Phatanagre- AI Developer](assets/mayurphatanagre.gif)
 
 # Project Title
 
