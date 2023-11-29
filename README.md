@@ -1,6 +1,6 @@
 ### Hi there, I'm Mayur 👋
 
-<img src="assets/mayur phatanagre.gif" alt="Mayur phatangare AI Developer "></a>
+<img src="assets/mayurphatanagre.gif" alt="Mayur phatangare AI Developer "></a>
 
 ## 🚀 About Me
 
@@ -50,7 +50,7 @@ I'm passionate about artificial intelligence and always eager to learn new thing
 
 You can reach me at 👇
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mnphatangare8gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mnphatangare8gmail.com)
 [![portfolio](https://img.shields.io/badge/my_portfolio-5C1F87?style=for-the-badge&logo=ko-fi&logoColor=white)](https://001mayur.github.io/)  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-phatangare-ba874821b/)  
 [![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/001Mayur)  
