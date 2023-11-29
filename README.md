@@ -2,48 +2,6 @@
 
 ![Mayur Phatanagre- AI Developer](assets/mayurphatanagre.gif)
 
-# Project Title
-
-Description of your project.
-
-## Preview
-
-<div id="preview-container"></div>
-
-<script>
-  // Function to simulate checking internet speed
-  function checkInternetSpeed() {
-    return new Promise((resolve) => {
-      // Simulate a delay of 2 seconds to check internet speed
-      setTimeout(() => {
-        // You can replace this with your logic to determine internet speed
-        // For example, you might use an API or calculate based on network conditions
-        const isSlow = Math.random() < 0.3; // Simulating a 30% chance of slow internet
-        resolve(isSlow);
-      }, 2000); // Simulating a 2-second delay
-    });
-  }
-
-  // Function to load the appropriate image
-  function loadPreview() {
-    const container = document.getElementById("preview-container");
-
-    // Call the checkInternetSpeed function
-    checkInternetSpeed().then((isSlowConnection) => {
-      if (isSlowConnection) {
-        // If internet is slow, load the static PNG
-        container.innerHTML = '<img src="assets/Mayurphatangare.png" alt="Static Preview">';
-      } else {
-        // If internet is good, load the animated GIF
-        container.innerHTML = '<img src="assets/mayurphatanagre.gif" alt="Animated Preview">';
-      }
-    });
-  }
-
-  // Load the preview when the page is loaded
-  window.onload = loadPreview;
-</script>
-
 ## 🚀 About Me
 
 I'm passionate about artificial intelligence and always eager to learn new things and technologies. I love to solve problems and take on new challenges.
